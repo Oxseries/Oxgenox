@@ -1,0 +1,7 @@
+{
+  "name": "Uzman Kayıt Sistemi",
+  "description": "OX Series için profesyonel uzman kayıt sistemi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
